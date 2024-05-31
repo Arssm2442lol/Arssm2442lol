@@ -1,0 +1,54 @@
+h1 {
+    text-align: center;
+}
+
+
+  p {
+      text-align: center;
+  }
+
+
+h2 {
+    text-align: center;  
+      color: #0464ff;
+}
+
+
+h4 {
+    text-align: center;  
+      color: #9de70a;
+}
+
+.icons{
+   height: 70px;
+    width: 100px;
+}
+
+.ffg {
+     height: 200px;
+    width: 200px;
+}
+
+
+h6 {
+  text-align: center;  
+      color: #57A6A1;
+      font-size: 15px;
+}
+
+.sd {
+  height: 225px;
+    width: 225px;
+}
+
+h8 {
+  text-align: center;  
+      color: #615EFC;
+      font-size: 15px;
+}
+
+h10 {
+  text-align: center;  
+      color: #4D869C;
+      font-size: 15px;
+}
